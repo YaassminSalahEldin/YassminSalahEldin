@@ -19,17 +19,17 @@ Hello world, this is my Profile
 🎯 I focus on creating intelligent systems that interact with the real world through sensors, automation, and data visualization.
 📚 Lifelong learner passionate about bridging software intelligence with hardware and intuitive interfaces.
 ```
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" width="48%" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YassminSalahEldin&show_icons=true&theme=tokyonight" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" width="48%" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/yassmin-salah-eldin-elshater/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yassmin-salah-eldin-elshater/" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/yassminelshater" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/yassminelshater" height="30" width="40" /></a>
 </p>
 
-<p align="center"> <a href="mailto:your.email@example.com"> <img src="https://img.shields.io/badge/Gmail-Email%20Me-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://your-portfolio.com"> <img src="https://img.shields.io/badge/Portfolio-Visit-%23FF5722?style=for-the-badge&logo=firefox&logoColor=white"/> </a> </p>
+<p align="center"> <a href="mailto:yassminsalahelshater@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Email%20Me-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://your-portfolio.com"> <img src="https://img.shields.io/badge/Portfolio-Visit-%23FF5722?style=for-the-badge&logo=firefox&logoColor=white"/> </a> </p>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/> </p> <p align="center"><em>“Turning ideas into code, and code into impact.”</em></p> ```
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=YassminSalahEldin&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/> </p> <p align="center"><em>“Turning ideas into code, and code into impact.”</em></p> ```
 
 
 
