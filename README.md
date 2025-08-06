@@ -39,7 +39,7 @@
     <img src="https://img.shields.io/badge/Kaggle-Profile-%2312100E?style=for-the-badge&logo=kaggle&logoColor=white"/>
   </a>
   
-  <a href="https://your-portfolio.com" target="_blank">
+  <a href="https://yassmin-salah-eldin-wzzy78z.gamma.site" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-%23FF5722?style=for-the-badge&logo=firefox&logoColor=white"/>
   </a>
 </p>
@@ -47,5 +47,5 @@
 
 <p align="left"> <!-- Sample icons --> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/> <!-- Add more as needed --> </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YassminSalahEldin&layout=compact&langs_count=8&theme=tokyonight"/> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaassminsalaheldin&layout=compact&langs_count=8&theme=tokyonight"/> </p>
 
