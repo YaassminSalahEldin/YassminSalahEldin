@@ -3,6 +3,27 @@ Hello world, this is my Profile
 <h1 align="center">Hi 👋, I'm Yassmin</h1>
 <h3 align="center">AI, Embedded Systems, and Web Development</h3>
 
+<h1 align="center">👋 Hi, I'm Yassmin Elshater</h1>
+<h3 align="center">AI | Embedded Systems | Web Development Expert</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Engineer-%23FF5722.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Embedded%20Systems-%23007ACC.svg?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Web%20Developer-%231572B6.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+</p>
+
+---
+
+### 🧠 About Me
+
+```txt
+I’m an engineer passionate about bridging AI intelligence with real-world hardware
+and creating interactive, scalable web experiences.
+
+✔️ AI & Machine Learning | NLP | Computer Vision  
+✔️ Embedded Systems (AVR/ARM, IoT, Sensor Fusion)  
+✔️ Full Stack Development (HTML/CSS/JS + PHP/Python/.NET)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/yassmin-salah-eldin-elshater/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yassmin-salah-eldin-elshater/" height="30" width="40" /></a>
