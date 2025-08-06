@@ -30,20 +30,17 @@
   <a href="mailto:yassminsalahelshater@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Email%20Me-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/yassmin-salah-eldin-elshater/" target="blank">
+  
+  <a href="https://www.linkedin.com/in/yassmin-salah-eldin-elshater/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://your-portfolio.com">
+  
+  <a href="https://www.kaggle.com/yassminelshater" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-Profile-%2312100E?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  </a>
+  
+  <a href="https://your-portfolio.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-%23FF5722?style=for-the-badge&logo=firefox&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/yassmin-salah-eldin-elshater/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.kaggle.com/yassminelshater" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
   </a>
 </p>
 
