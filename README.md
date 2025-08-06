@@ -4,9 +4,9 @@ Hello world, this is my Profile
 <h3 align="center">AI Engineer | Embedded Systems Developer | Full-Stack Web Developer</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-Expert-%233776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C/C++-Embedded-%2300599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-Intermediate-%23f89820?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-%23f89820?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML/CSS/JS-FullStack-%23E34F26?style=for-the-badge&logo=javascript&logoColor=white"/>
 </p>
 
@@ -22,7 +22,8 @@ Hello world, this is my Profile
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YassminSalahEldin&show_icons=true&theme=tokyonight" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" width="48%" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yassmin-salah-eldin-elshater/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yassmin-salah-eldin-elshater/" height="30" width="40" /></a>
+
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/yassmin-salah-eldin-elshater/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yassmin-salah-eldin-elshater/" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/yassminelshater" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/yassminelshater" height="30" width="40" /></a>
 </p>
 
